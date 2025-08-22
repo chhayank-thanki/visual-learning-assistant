@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Import Dyslexia-Friendly Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&family=Lexend+Deca&display=swap');
+
+@font-face {
+  font-family: 'OpenDyslexic';
+  src: url('https://cdn.jsdelivr.net/gh/antijingoist/open-dyslexic/otf/OpenDyslexic-Regular.otf') format('opentype');
+}
+
+
+.font-opendyslexic {
+  font-family: 'OpenDyslexic', sans-serif;
+}
+
+.font-lexend {
+  font-family: 'Lexend Deca', sans-serif;
+}
+
+.font-atkinson {
+  font-family: 'Atkinson Hyperlegible', sans-serif;
+}

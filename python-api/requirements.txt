@@ -1,0 +1,6 @@
+Django
+djangorestframework
+transformers
+torch
+spacy
+django-cors-headers
