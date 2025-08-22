@@ -36,22 +36,36 @@ visual-learning-assistant/
 git clone https://github.com/chhayank-thanki/visual-learning-assistant.git
 cd visual-learning-assistant
 
-2) setup node.js server
+```
 
+### 2) setup node.js server
+```bash
 cd server
 npm install
 npm run dev
+```
 
-3) setup react client
-
+### 3) setup react client
+```bash
 cd ../client
 npm install
 npm start
+```
 
-4) setup Python Django API
-
+### 4) setup Python Django API
+```bash
 cd ../python-api
 pip install -r requirements.txt
 python manage.py runserver
-
 ```
+
+
+---
+
+## 🙋‍♂️ Author
+
+**Chhayank Thanki**  
+LinkedIn: [@chhayank-thanki](https://www.linkedin.com/in/chhayank-thanki/)  
+GitHub: [@chhayank-thanki](https://github.com/chhayank-thanki)
+
+---
