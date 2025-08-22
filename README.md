@@ -55,14 +55,3 @@ pip install -r requirements.txt
 python manage.py runserver
 
 ```
-
----
-
-This README is **GitHub-ready**:  
-- Explains what the project does  
-- Includes setup steps for React + Node + Django  
-- Highlights features and future scope
-
----
-
-Do you want me to **also create a nice project logo/banner section at the top (ASCII art or image placeholder)** and **add screenshots placeholders** so it looks more attractive on GitHub? Or keep it simple like above?
